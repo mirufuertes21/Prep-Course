@@ -85,6 +85,7 @@ Para poder trabajar en un proyecto debes clonarlo (descargarlo) a tu máquina lo
 Una vez tengas la dirección copiada, abre una terminal nueva y escribe lo siguiente:
 
 
+
 ```bash
   $ cd ~
 
